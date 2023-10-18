@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💻 I'm studying Data Science & Cybersecurity @ UCLA
+- 🤿 I'm a scubadiving master !
+
 <!--
 **jb-lafon/jb-lafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
