@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm studying Data Science & Cybersecurity @ UCLA
+- 💻 I'm studying Data Science & Cybersecurity @ UCLA Extension
 - 🤿 I'm a scubadiving master !
 
 <!--
